@@ -16,6 +16,8 @@ public class JavaApplication26 {
      */
     public static void main(String[] args) {
         System.out.println("Hello World, my Github name is Dali176");
+        System.out.println("I also use Github to annoy my friend because I still need to update our Minecraft mod but that takes effort XD");
+        System.out.println("https://github.com/Eragonn1490/Reactioncraft-3 | The OG mod that brought vanilla MC stained glass");
     }
     
 }
